@@ -21,3 +21,5 @@ git clone https://github.com/RodrigoLMarques/hidro-logic.git
 2. Para rodar o projeto é preciso utilizar o programa wiRedPanda
 
 3. O arquivo principal do projeto é ```main.panda```
+
+4. É recomendado clicar botão de reset uma vez ao abrir
