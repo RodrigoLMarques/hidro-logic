@@ -23,3 +23,14 @@ git clone https://github.com/RodrigoLMarques/hidro-logic.git
 3. O arquivo principal do projeto é ```main.panda```
 
 4. É recomendado clicar botão de reset uma vez ao abrir
+
+## Videos e Relatório
+
+Apresentação
+https://drive.google.com/file/d/1uC_hNzIqReFoG2wLLbL_-gXOg10pSudb/view?usp=sharing
+
+Explicação
+https://drive.google.com/file/d/1fDntUeeMYuviKzlNvyAnSpUZLfl_aKHD/view?usp=sharing
+
+Relatório
+https://docs.google.com/document/d/1vCkp69gjDwkNH7j1WuZB3cUPpSvlUZ2fXNcxFqIyIjw/edit?usp=sharing
